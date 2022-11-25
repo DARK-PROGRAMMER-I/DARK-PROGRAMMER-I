@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DARK-PROGRAMMER-I
 - 👀 I’m interested in Cross-Platform Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 Sharping my flutter skills.
 - 💞️ I’m looking to collaborate on opensourse projects 
 - 📫 How to reach me : darkprogrammer.i.a@gmail.com
 
