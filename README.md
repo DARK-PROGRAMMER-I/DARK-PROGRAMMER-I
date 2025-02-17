@@ -19,8 +19,8 @@
 
 ---
 
-![profile count](https://komarev.com/ghpvc/?username=AmmarAhmad87&color=red)&nbsp;
-[![GitHub AmmarAhmad87](https://img.shields.io/github/followers/AmmarAhmad87?label=follow&style=social)](https://github.com/AmmarAhmad87)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=DARK-PROGRAMMER-I&color=red)&nbsp;
+[![GitHub DARK-PROGRAMMER-I](https://img.shields.io/github/followers/DARK-PROGRAMMER-I?label=follow&style=social)](https://github.com/DARK-PROGRAMMER-I)&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,12 +46,12 @@
 ### My Stats:
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ammarahmad87&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=DARK-PROGRAMMER-I&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 <br/>
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=ammarahmad87&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=DARK-PROGRAMMER-I&show_icons=true&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&rank_icon=github" />
 	
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarahmad87&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-PROGRAMMER-I&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
  <br/>
 </p>
 
