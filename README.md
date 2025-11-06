@@ -22,11 +22,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=DARK-PROGRAMMER-I&color=red)&nbsp;
 [![GitHub DARK-PROGRAMMER-I](https://img.shields.io/github/followers/DARK-PROGRAMMER-I?label=follow&style=social)](https://github.com/DARK-PROGRAMMER-I)&nbsp;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ammar-ahmad-232a091b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammarahmad" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammarahmad" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
